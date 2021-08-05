@@ -232,7 +232,24 @@ form label{
         flex-wrap: wrap;
     }
 
+@media only screen and (max-width: 900px){
 
+    #pag2{
+
+        height: auto;
+
+    }
+
+    #pag3{
+
+        height: auto;
+        
+
+    }
+
+
+}
+    
 }
 
 @media only screen and (max-width: 800px){
