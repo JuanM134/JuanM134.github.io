@@ -243,6 +243,14 @@ form label{
         
 
     }
+    
+    #nav ul li a{
+
+        font-size: 15px;
+        display: block;
+        text-align: center;
+        
+    }
 
 
 }
@@ -251,7 +259,7 @@ form label{
 
     #nav ul li a{
 
-        font-size: 17px;
+        font-size: 12px;
         display: block;
         text-align: center;
         
